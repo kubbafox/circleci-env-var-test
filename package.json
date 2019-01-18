@@ -1,0 +1,19 @@
+{
+  "name": "circleci-env-var-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kubbafox/circleci-env-var-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kubbafox/circleci-env-var-test/issues"
+  },
+  "homepage": "https://github.com/kubbafox/circleci-env-var-test#readme"
+}
